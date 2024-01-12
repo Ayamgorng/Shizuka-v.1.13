@@ -1,0 +1,29 @@
+{
+  "allcommand": [],
+  "anonymous": [],
+  "blockcmd": [],
+  "banned": [],
+  "premium": [],
+  "claim": [],
+  "data": [
+    {
+      "name": "premium",
+      "id": []
+    },
+    {
+      "name": "commands",
+      "id": []
+    }
+  ],
+  "sewa": [],
+  "antispam": [],
+  "dashboard": [],
+  "listerror": [],
+  "hittoday": [],
+  "clearchat": [],
+  "users": {},
+  "chats": {},
+  "settings": {},
+  "kickon": {},
+  "others": {}
+}
