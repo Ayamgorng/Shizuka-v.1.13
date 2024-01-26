@@ -5,8 +5,9 @@ const chalk = require('chalk')
 
 global.nomerOwner ="6281281872699"
 global.nomerOwner2 = "6281281872699"
-global.ownerName = "єнanz"
+global.ownerName = "Shizuka"
 global.namabot = "© Shizuka Bot"
+global.apikey = "xxxxx" //masukan apikey heavycraft.my.id jika ingin semua fitur work
 global.botName = "© Shizuka Bot"
 global.autoJoin = true
 global.sessionName = 'session'
